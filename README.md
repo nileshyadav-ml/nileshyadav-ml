@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Machine Learning, along with IoT and AI, is likely to push India’s cloud market to $7.1 billion by 2022.**
 
-<a href="https://www.buymeacoffee.com/nileshy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/nileshy" target="_blank" rel="noopener noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
