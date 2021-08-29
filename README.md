@@ -21,10 +21,10 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/nileshy" target="blank"><img align="center" src="https://img.shields.io/badge/Nilesh Kumar Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:contact.nileshy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/contact.nileshy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/nileshyadav-ml" target="blank"><img align="center" src="https://img.shields.io/badge/nileshyadavml-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;<a href="https://steamcommunity.com/id/nilesh69/" target="blank"><img align="center" src="https://img.shields.io/badge/Nilesh69-081834?style=for-the-badge&logo=steam&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.twitter.com/nileshyadav_ml" target="blank"><img align="center" src="https://img.shields.io/badge/nileshyadav_ml-5DA9DD?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;<a href="https://nileshyadav.me" target="blank"><img align="center" src="https://img.shields.io/badge/nileshyadav-275FF7?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nileshy" target="_blank"><img align="center" src="https://img.shields.io/badge/Nilesh Kumar Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:contact.nileshy@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/contact.nileshy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/nileshyadav-ml" target="_blank"><img align="center" src="https://img.shields.io/badge/nileshyadavml-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://steamcommunity.com/id/nilesh69/" target="_blank"><img align="center" src="https://img.shields.io/badge/Nilesh69-081834?style=for-the-badge&logo=steam&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.twitter.com/nileshyadav_ml" target="_blank"><img align="center" src="https://img.shields.io/badge/nileshyadav_ml-5DA9DD?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://nileshyadav.me" target="_blank"><img align="center" src="https://img.shields.io/badge/nileshyadav-275FF7?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
 <Br>
 <hr>
