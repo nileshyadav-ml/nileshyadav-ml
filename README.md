@@ -13,6 +13,9 @@
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: Machine Learning, along with IoT and AI, is likely to push India’s cloud market to $7.1 billion by 2022.
+ 
+  <a href="https://www.buymeacoffee.com/nileshy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nileshy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+  
   
 <hr>
 <Br>
