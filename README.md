@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://i.gifer.com/embedded/download/J3A.gif" height="230"/>
+<img src="https://camo.githubusercontent.com/dc9571832183560826a6960b7dbd31d78f1390b966868f96aa1381d593deb947/687474703a2f2f692e696d6775722e636f6d2f36306274732e676966" height="230"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://nileshyadav.me/" target="_blank">Nilesh Kumar Yadav<a></h1>
 <Br>
-
+<center>
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS+%7C+AI+%7C+ML+Enthusiasts+;Python+Developer+;Aiming+for+the+best0"></a>
-<h1>About Me! 😎</h1>
-
+</center>
+  <h1>About Me! 😎</h1>
 - 🏫: I'm an Aspiring ML Engineer.
 - 🔭: I’m currently working on many small ML projects.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
