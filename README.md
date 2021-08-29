@@ -5,13 +5,12 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS+%7C+AI+%7C+ML+Enthusiasts+;Python+Developer+;Aiming+for+the+best"></a>
 </center>
 <h1>About Me! 😎</h1>
-
+ 
 - 🏫: I'm an Aspiring ML Engineer.
 - 🔭: I’m currently working on many small ML projects.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
 - ⚡  Fun fact: Machine Learning, along with IoT and AI, is likely to push India’s cloud market to $7.1 billion by 2022.
  
   <a href="https://www.buymeacoffee.com/nileshy"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nileshy&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
