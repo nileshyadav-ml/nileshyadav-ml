@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/nileshyadav-ml/nileshyadav-ml/main/J3A.gif" height="300px" />
-</p>
 <hr>
 <h1 align="center">I'm <a href="https://nileshyadav.me/">Nilesh Kumar Yadav<a></h1>
 <Br>
