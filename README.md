@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.gifer.com/embedded/download/J3A.gif" height="230"/>
+<img src="https://i.gifer.com/embedded/download/J3A.gif" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://nileshyadav.me/">Nilesh Kumar Yadav<a></h1>
+<h1 align="center">I'm <a href="https://nileshyadav.me/" target="_blank">Nilesh Kumar Yadav<a></h1>
 <Br>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS+%7C+AI+%7C+ML+Enthusiasts+;Python+Developer+;Aiming+for+the+best0"></a>
