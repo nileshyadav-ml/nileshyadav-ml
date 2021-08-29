@@ -2,7 +2,7 @@
 <h1 align="center">I'm <a href="https://nileshyadav.me/">Nilesh Kumar Yadav<a></h1>
 <Br>
 <center>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS+%7C+AI+%7C+ML+Enthusiasts+;Python+Developer+;Aiming+for+the+best0"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS+%7C+AI+%7C+ML+Enthusiasts+;Python+Developer+;Aiming+for+the+best0"></a>
 </center>
 <h1>About Me! 😎</h1>
 
