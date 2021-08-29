@@ -2,7 +2,7 @@
 <h1 align="center">I'm <a href="https://nileshyadav.me/">Nilesh Kumar Yadav<a></h1>
 <Br>
 <center>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS+%7C+AI+%7C+ML+Enthusiasts+;Python+Developer+;Aiming+for+the+best0"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="centre" src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS+%7C+AI+%7C+ML+Enthusiasts+;Python+Developer+;Aiming+for+the+best"></a>
 </center>
 <h1>About Me! 😎</h1>
 
@@ -71,11 +71,12 @@
   
 
 <a href="https://github.com/nileshyadav-ml/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nileshyadav-ml&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nileshyadav-ml/github-readme-stats"><img alt="Nilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshyadav-ml&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/nileshyadav-ml/github-readme-stats"></br>
+<img alt="Nilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshyadavml&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <a href="https://github.com/nileshyadav-ml/github-readme-activity-graph"><img alt="Nilesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nileshyadav-ml&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/nileshyadav-ml/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nileshyadav-ml">
 </a>
 <a href="https://github.com/nileshyadav-ml?tab=followers"><img src="https://img.shields.io/github/followers/nileshyadav-ml?label=Followers&style=social" alt="GitHub Badge"></a>
