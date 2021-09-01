@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;<a href="https://steamcommunity.com/id/nilesh69/" target="_blank"><img align="center" src="https://img.shields.io/badge/Nilesh69-081834?style=for-the-badge&logo=steam&logoColor=white" /></a>
  &nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/nileshkumaryadav" target="_blank"><img align="center" src="https://img.shields.io/badge/nileshyadav-37BAE8?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.twitter.com/nileshyadav_ml" target="_blank"><img align="center" src="https://img.shields.io/badge/nileshyadav_ml-5DA9DD?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;<a href="https://nileshyadav.me" target="_blank"><img align="center" src="https://img.shields.io/badge/nileshyadav-275FF7?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;<a href="https://nileshml.hashnode.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/nileshyadav-275FF7?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
 <Br>
 <hr>
